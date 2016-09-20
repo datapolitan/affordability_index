@@ -1,0 +1,1017 @@
+api_var,label
+DP02_0001E,Total households
+DP02_0001PE,Percent For!!Total households
+DP02_0002E,Family households (families)
+DP02_0002PE,Percent For!!Family households (families)
+DP02_0003E,With own children under 18 years
+DP02_0003PE,Percent For!!With own children under 18 years
+DP02_0004E,Married-couple family
+DP02_0004PE,Percent For!!Married-couple family
+DP02_0005E,With own children under 18 years
+DP02_0005PE,Percent For!!With own children under 18 years
+DP02_0006E,"Male householder, no wife present, family"
+DP02_0006PE,"Percent For!!Male householder, no wife present, family"
+DP02_0007E,With own children under 18 years
+DP02_0007PE,Percent For!!With own children under 18 years
+DP02_0008E,"Female householder, no husband present, family"
+DP02_0008PE,"Percent For!!Female householder, no husband present, family"
+DP02_0009E,With own children under 18 years
+DP02_0009PE,Percent For!!With own children under 18 years
+DP02_0010E,Nonfamily households
+DP02_0010PE,Percent For!!Nonfamily households
+DP02_0011E,Householder living alone
+DP02_0011PE,Percent For!!Householder living alone
+DP02_0012E,65 years and over
+DP02_0012PE,Percent For!!65 years and over
+DP02_0013E,Households with one or more people under 18 years
+DP02_0013PE,Percent For!!Households with one or more people under 18 years
+DP02_0014E,Households with one or more people 65 years and over
+DP02_0014PE,Percent For!!Households with one or more people 65 years and over
+DP02_0015E,Average household size
+DP02_0015PE,Percent For!!Average household size
+DP02_0016E,Average family size
+DP02_0016PE,Percent For!!Average family size
+DP02_0017E,Population in households
+DP02_0017PE,Percent For!!Population in households
+DP02_0018E,Householder
+DP02_0018PE,Percent For!!Householder
+DP02_0019E,Spouse
+DP02_0019PE,Percent For!!Spouse
+DP02_0020E,Child
+DP02_0020PE,Percent For!!Child
+DP02_0021E,Other relatives
+DP02_0021PE,Percent For!!Other relatives
+DP02_0022E,Nonrelatives
+DP02_0022PE,Percent For!!Nonrelatives
+DP02_0023E,Unmarried partner
+DP02_0023PE,Percent For!!Unmarried partner
+DP02_0024E,Males 15 years and over
+DP02_0024PE,Percent For!!Males 15 years and over
+DP02_0025E,Never married
+DP02_0025PE,Percent For!!Never married
+DP02_0026E,"Now married, except separated"
+DP02_0026PE,"Percent For!!Now married, except separated"
+DP02_0027E,Separated
+DP02_0027PE,Percent For!!Separated
+DP02_0028E,Widowed
+DP02_0028PE,Percent For!!Widowed
+DP02_0029E,Divorced
+DP02_0029PE,Percent For!!Divorced
+DP02_0030E,Females 15 years and over
+DP02_0030PE,Percent For!!Females 15 years and over
+DP02_0031E,Never married
+DP02_0031PE,Percent For!!Never married
+DP02_0032E,"Now married, except separated"
+DP02_0032PE,"Percent For!!Now married, except separated"
+DP02_0033E,Separated
+DP02_0033PE,Percent For!!Separated
+DP02_0034E,Widowed
+DP02_0034PE,Percent For!!Widowed
+DP02_0035E,Divorced
+DP02_0035PE,Percent For!!Divorced
+DP02_0036E,Number of women 15 to 50 years old who had a birth in the past 12 months
+DP02_0036PE,Percent For!!Number of women 15 to 50 years old who had a birth in the past 12 months
+DP02_0037E,"Unmarried women (widowed, divorced, and never married)"
+DP02_0037PE,"Percent For!!Unmarried women (widowed, divorced, and never married)"
+DP02_0038E,"Per 1,000 unmarried women"
+DP02_0038PE,"Percent For!!Per 1,000 unmarried women"
+DP02_0039E,"Per 1,000 women 15 to 50 years old"
+DP02_0039PE,"Percent For!!Per 1,000 women 15 to 50 years old"
+DP02_0040E,"Per 1,000 women 15 to 19 years old"
+DP02_0040PE,"Percent For!!Per 1,000 women 15 to 19 years old"
+DP02_0041E,"Per 1,000 women 20 to 34 years old"
+DP02_0041PE,"Percent For!!Per 1,000 women 20 to 34 years old"
+DP02_0042E,"Per 1,000 women 35 to 50 years old"
+DP02_0042PE,"Percent For!!Per 1,000 women 35 to 50 years old"
+DP02_0043E,Number of grandparents living with own grandchildren under 18 years
+DP02_0043PE,Percent For!!Number of grandparents living with own grandchildren under 18 years
+DP02_0044E,Responsible for grandchildren
+DP02_0044PE,Percent For!!Responsible for grandchildren
+DP02_0045E,Less than 1 year
+DP02_0045PE,Percent For!!Less than 1 year
+DP02_0046E,1 or 2 years
+DP02_0046PE,Percent For!!1 or 2 years
+DP02_0047E,3 or 4 years
+DP02_0047PE,Percent For!!3 or 4 years
+DP02_0048E,5 or more years
+DP02_0048PE,Percent For!!5 or more years
+DP02_0049E,Number of grandparents responsible for own grandchildren under 18 years
+DP02_0049PE,Percent For!!Number of grandparents responsible for own grandchildren under 18 years
+DP02_0050E,Who are female
+DP02_0050PE,Percent For!!Who are female
+DP02_0051E,Who are married
+DP02_0051PE,Percent For!!Who are married
+DP02_0052E,Population 3 years and over enrolled in school
+DP02_0052PE,Percent For!!Population 3 years and over enrolled in school
+DP02_0053E,"Nursery school, preschool"
+DP02_0053PE,"Percent For!!Nursery school, preschool"
+DP02_0054E,Kindergarten
+DP02_0054PE,Percent For!!Kindergarten
+DP02_0055E,Elementary school (grades 1-8)
+DP02_0055PE,Percent For!!Elementary school (grades 1-8)
+DP02_0056E,High school (grades 9-12)
+DP02_0056PE,Percent For!!High school (grades 9-12)
+DP02_0057E,College or graduate school
+DP02_0057PE,Percent For!!College or graduate school
+DP02_0058E,Population 25 years and over
+DP02_0058PE,Percent For!!Population 25 years and over
+DP02_0059E,Less than 9th grade
+DP02_0059PE,Percent For!!Less than 9th grade
+DP02_0060E,"9th to 12th grade, no diploma"
+DP02_0060PE,"Percent For!!9th to 12th grade, no diploma"
+DP02_0061E,High school graduate (includes equivalency)
+DP02_0061PE,Percent For!!High school graduate (includes equivalency)
+DP02_0062E,"Some college, no degree"
+DP02_0062PE,"Percent For!!Some college, no degree"
+DP02_0063E,Associate's degree
+DP02_0063PE,Percent For!!Associate's degree
+DP02_0064E,Bachelor's degree
+DP02_0064PE,Percent For!!Bachelor's degree
+DP02_0065E,Graduate or professional degree
+DP02_0065PE,Percent For!!Graduate or professional degree
+DP02_0066E,Percent high school graduate or higher
+DP02_0066PE,Percent For!!Percent high school graduate or higher
+DP02_0067E,Percent bachelor's degree or higher
+DP02_0067PE,Percent For!!Percent bachelor's degree or higher
+DP02_0068E,Civilian population 18 years and over
+DP02_0068PE,Percent For!!Civilian population 18 years and over
+DP02_0069E,Civilian veterans
+DP02_0069PE,Percent For!!Civilian veterans
+DP02_0070E,Total Civilian Noninstitutionalized Population
+DP02_0070PE,Percent For!!Total Civilian Noninstitutionalized Population
+DP02_0071E,With a disability
+DP02_0071PE,Percent For!!With a disability
+DP02_0072E,Under 18 years
+DP02_0072PE,Percent For!!Under 18 years
+DP02_0073E,With a disability
+DP02_0073PE,Percent For!!With a disability
+DP02_0074E,18 to 64 years
+DP02_0074PE,Percent For!!18 to 64 years
+DP02_0075E,With a disability
+DP02_0075PE,Percent For!!With a disability
+DP02_0076E,65 years and over
+DP02_0076PE,Percent For!!65 years and over
+DP02_0077E,With a disability
+DP02_0077PE,Percent For!!With a disability
+DP02_0078E,Population 1 year and over
+DP02_0078PE,Percent For!!Population 1 year and over
+DP02_0079E,Same house
+DP02_0079PE,Percent For!!Same house
+DP02_0080E,Different house in the U.S.
+DP02_0080PE,Percent For!!Different house in the U.S.
+DP02_0081E,Same county
+DP02_0081PE,Percent For!!Same county
+DP02_0082E,Different county
+DP02_0082PE,Percent For!!Different county
+DP02_0083E,Same state
+DP02_0083PE,Percent For!!Same state
+DP02_0084E,Different state
+DP02_0084PE,Percent For!!Different state
+DP02_0085E,Abroad
+DP02_0085PE,Percent For!!Abroad
+DP02_0086E,Total population
+DP02_0086PE,Percent For!!Total population
+DP02_0087E,Native
+DP02_0087PE,Percent For!!Native
+DP02_0088E,Born in United States
+DP02_0088PE,Percent For!!Born in United States
+DP02_0089E,State of residence
+DP02_0089PE,Percent For!!State of residence
+DP02_0090E,Different state
+DP02_0090PE,Percent For!!Different state
+DP02_0091E,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)"
+DP02_0091PE,"Percent For!!Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)"
+DP02_0092E,Foreign born
+DP02_0092PE,Percent For!!Foreign born
+DP02_0093E,Foreign-born population
+DP02_0093PE,Percent For!!Foreign-born population
+DP02_0094E,Naturalized U.S. citizen
+DP02_0094PE,Percent For!!Naturalized U.S. citizen
+DP02_0095E,Not a U.S. citizen
+DP02_0095PE,Percent For!!Not a U.S. citizen
+DP02_0096E,Population born outside the United States
+DP02_0096PE,Percent For!!Population born outside the United States
+DP02_0097E,Native
+DP02_0097PE,Percent For!!Native
+DP02_0098E,Entered 2010 or later
+DP02_0098PE,Percent For!!Entered 2010 or later
+DP02_0099E,Entered before 2010
+DP02_0099PE,Percent For!!Entered before 2010
+DP02_0100E,Foreign born
+DP02_0100PE,Percent For!!Foreign born
+DP02_0101E,Entered 2010 or later
+DP02_0101PE,Percent For!!Entered 2010 or later
+DP02_0102E,Entered before 2010
+DP02_0102PE,Percent For!!Entered before 2010
+DP02_0103E,"Foreign-born population, excluding population born at sea"
+DP02_0103PE,"Percent For!!Foreign-born population, excluding population born at sea"
+DP02_0104E,Europe
+DP02_0104PE,Percent For!!Europe
+DP02_0105E,Asia
+DP02_0105PE,Percent For!!Asia
+DP02_0106E,Africa
+DP02_0106PE,Percent For!!Africa
+DP02_0107E,Oceania
+DP02_0107PE,Percent For!!Oceania
+DP02_0108E,Latin America
+DP02_0108PE,Percent For!!Latin America
+DP02_0109E,Northern America
+DP02_0109PE,Percent For!!Northern America
+DP02_0110E,Population 5 years and over
+DP02_0110PE,Percent For!!Population 5 years and over
+DP02_0111E,English only
+DP02_0111PE,Percent For!!English only
+DP02_0112E,Language other than English
+DP02_0112PE,Percent For!!Language other than English
+DP02_0113E,"Speak English less than ""very well"""
+DP02_0113PE,"Percent For!!Speak English less than ""very well"""
+DP02_0114E,Spanish
+DP02_0114PE,Percent For!!Spanish
+DP02_0115E,"Speak English less than ""very well"""
+DP02_0115PE,"Percent For!!Speak English less than ""very well"""
+DP02_0116E,Other Indo-European languages
+DP02_0116PE,Percent For!!Other Indo-European languages
+DP02_0117E,"Speak English less than ""very well"""
+DP02_0117PE,"Percent For!!Speak English less than ""very well"""
+DP02_0118E,Asian and Pacific Islander languages
+DP02_0118PE,Percent For!!Asian and Pacific Islander languages
+DP02_0119E,"Speak English less than ""very well"""
+DP02_0119PE,"Percent For!!Speak English less than ""very well"""
+DP02_0120E,Other languages
+DP02_0120PE,Percent For!!Other languages
+DP02_0121E,"Speak English less than ""very well"""
+DP02_0121PE,"Percent For!!Speak English less than ""very well"""
+DP02_0122E,Total population
+DP02_0122PE,Percent For!!Total population
+DP02_0123E,American
+DP02_0123PE,Percent For!!American
+DP02_0124E,Arab
+DP02_0124PE,Percent For!!Arab
+DP02_0125E,Czech
+DP02_0125PE,Percent For!!Czech
+DP02_0126E,Danish
+DP02_0126PE,Percent For!!Danish
+DP02_0127E,Dutch
+DP02_0127PE,Percent For!!Dutch
+DP02_0128E,English
+DP02_0128PE,Percent For!!English
+DP02_0129E,French (except Basque)
+DP02_0129PE,Percent For!!French (except Basque)
+DP02_0130E,French Canadian
+DP02_0130PE,Percent For!!French Canadian
+DP02_0131E,German
+DP02_0131PE,Percent For!!German
+DP02_0132E,Greek
+DP02_0132PE,Percent For!!Greek
+DP02_0133E,Hungarian
+DP02_0133PE,Percent For!!Hungarian
+DP02_0134E,Irish
+DP02_0134PE,Percent For!!Irish
+DP02_0135E,Italian
+DP02_0135PE,Percent For!!Italian
+DP02_0136E,Lithuanian
+DP02_0136PE,Percent For!!Lithuanian
+DP02_0137E,Norwegian
+DP02_0137PE,Percent For!!Norwegian
+DP02_0138E,Polish
+DP02_0138PE,Percent For!!Polish
+DP02_0139E,Portuguese
+DP02_0139PE,Percent For!!Portuguese
+DP02_0140E,Russian
+DP02_0140PE,Percent For!!Russian
+DP02_0141E,Scotch-Irish
+DP02_0141PE,Percent For!!Scotch-Irish
+DP02_0142E,Scottish
+DP02_0142PE,Percent For!!Scottish
+DP02_0143E,Slovak
+DP02_0143PE,Percent For!!Slovak
+DP02_0144E,Subsaharan African
+DP02_0144PE,Percent For!!Subsaharan African
+DP02_0145E,Swedish
+DP02_0145PE,Percent For!!Swedish
+DP02_0146E,Swiss
+DP02_0146PE,Percent For!!Swiss
+DP02_0147E,Ukrainian
+DP02_0147PE,Percent For!!Ukrainian
+DP02_0148E,Welsh
+DP02_0148PE,Percent For!!Welsh
+DP02_0149E,West Indian (excluding Hispanic origin groups)
+DP02_0149PE,Percent For!!West Indian (excluding Hispanic origin groups)
+DP03_0001E,Population 16 years and over
+DP03_0001PE,Percent For!!Population 16 years and over
+DP03_0002E,In labor force
+DP03_0002PE,Percent For!!In labor force
+DP03_0003E,Civilian labor force
+DP03_0003PE,Percent For!!Civilian labor force
+DP03_0004E,Employed
+DP03_0004PE,Percent For!!Employed
+DP03_0005E,Unemployed
+DP03_0005PE,Percent For!!Unemployed
+DP03_0006E,Armed Forces
+DP03_0006PE,Percent For!!Armed Forces
+DP03_0007E,Not in labor force
+DP03_0007PE,Percent For!!Not in labor force
+DP03_0008E,Civilian labor force
+DP03_0008PE,Percent For!!Civilian labor force
+DP03_0009E,Percent Unemployed
+DP03_0009PE,Percent For!!Percent Unemployed
+DP03_0010E,Females 16 years and over
+DP03_0010PE,Percent For!!Females 16 years and over
+DP03_0011E,In labor force
+DP03_0011PE,Percent For!!In labor force
+DP03_0012E,Civilian labor force
+DP03_0012PE,Percent For!!Civilian labor force
+DP03_0013E,Employed
+DP03_0013PE,Percent For!!Employed
+DP03_0014E,Own children under 6 years
+DP03_0014PE,Percent For!!Own children under 6 years
+DP03_0015E,All parents in family in labor force
+DP03_0015PE,Percent For!!All parents in family in labor force
+DP03_0016E,Own children 6 to 17 years
+DP03_0016PE,Percent For!!Own children 6 to 17 years
+DP03_0017E,All parents in family in labor force
+DP03_0017PE,Percent For!!All parents in family in labor force
+DP03_0018E,Workers 16 years and over
+DP03_0018PE,Percent For!!Workers 16 years and over
+DP03_0019E,"Car, truck, or van -- drove alone"
+DP03_0019PE,"Percent For!!Car, truck, or van -- drove alone"
+DP03_0020E,"Car, truck, or van -- carpooled"
+DP03_0020PE,"Percent For!!Car, truck, or van -- carpooled"
+DP03_0021E,Public transportation (excluding taxicab)
+DP03_0021PE,Percent For!!Public transportation (excluding taxicab)
+DP03_0022E,Walked
+DP03_0022PE,Percent For!!Walked
+DP03_0023E,Other means
+DP03_0023PE,Percent For!!Other means
+DP03_0024E,Worked at home
+DP03_0024PE,Percent For!!Worked at home
+DP03_0025E,Mean travel time to work (minutes)
+DP03_0025PE,Percent For!!Mean travel time to work (minutes)
+DP03_0026E,Civilian employed population 16 years and over
+DP03_0026PE,Percent For!!Civilian employed population 16 years and over
+DP03_0027E,"Management, business, science, and arts occupations"
+DP03_0027PE,"Percent For!!Management, business, science, and arts occupations"
+DP03_0028E,Service occupations
+DP03_0028PE,Percent For!!Service occupations
+DP03_0029E,Sales and office occupations
+DP03_0029PE,Percent For!!Sales and office occupations
+DP03_0030E,"Natural resources, construction, and maintenance occupations"
+DP03_0030PE,"Percent For!!Natural resources, construction, and maintenance occupations"
+DP03_0031E,"Production, transportation, and material moving occupations"
+DP03_0031PE,"Percent For!!Production, transportation, and material moving occupations"
+DP03_0032E,Civilian employed population 16 years and over
+DP03_0032PE,Percent For!!Civilian employed population 16 years and over
+DP03_0033E,"Agriculture, forestry, fishing and hunting, and mining"
+DP03_0033PE,"Percent For!!Agriculture, forestry, fishing and hunting, and mining"
+DP03_0034E,Construction
+DP03_0034PE,Percent For!!Construction
+DP03_0035E,Manufacturing
+DP03_0035PE,Percent For!!Manufacturing
+DP03_0036E,Wholesale trade
+DP03_0036PE,Percent For!!Wholesale trade
+DP03_0037E,Retail trade
+DP03_0037PE,Percent For!!Retail trade
+DP03_0038E,"Transportation and warehousing, and utilities"
+DP03_0038PE,"Percent For!!Transportation and warehousing, and utilities"
+DP03_0039E,Information
+DP03_0039PE,Percent For!!Information
+DP03_0040E,"Finance and insurance, and real estate and rental and leasing"
+DP03_0040PE,"Percent For!!Finance and insurance, and real estate and rental and leasing"
+DP03_0041E,"Professional, scientific, and management, and administrative and waste management services"
+DP03_0041PE,"Percent For!!Professional, scientific, and management, and administrative and waste management services"
+DP03_0042E,"Educational services, and health care and social assistance"
+DP03_0042PE,"Percent For!!Educational services, and health care and social assistance"
+DP03_0043E,"Arts, entertainment, and recreation, and accommodation and food services"
+DP03_0043PE,"Percent For!!Arts, entertainment, and recreation, and accommodation and food services"
+DP03_0044E,"Other services, except public administration"
+DP03_0044PE,"Percent For!!Other services, except public administration"
+DP03_0045E,Public administration
+DP03_0045PE,Percent For!!Public administration
+DP03_0046E,Civilian employed population 16 years and over
+DP03_0046PE,Percent For!!Civilian employed population 16 years and over
+DP03_0047E,Private wage and salary workers
+DP03_0047PE,Percent For!!Private wage and salary workers
+DP03_0048E,Government workers
+DP03_0048PE,Percent For!!Government workers
+DP03_0049E,Self-employed in own not incorporated business workers
+DP03_0049PE,Percent For!!Self-employed in own not incorporated business workers
+DP03_0050E,Unpaid family workers
+DP03_0050PE,Percent For!!Unpaid family workers
+DP03_0051E,Total households
+DP03_0051PE,Percent For!!Total households
+DP03_0052E,"Less than $10,000"
+DP03_0052PE,"Percent For!!Less than $10,000"
+DP03_0053E,"$10,000 to $14,999"
+DP03_0053PE,"Percent For!!$10,000 to $14,999"
+DP03_0054E,"$15,000 to $24,999"
+DP03_0054PE,"Percent For!!$15,000 to $24,999"
+DP03_0055E,"$25,000 to $34,999"
+DP03_0055PE,"Percent For!!$25,000 to $34,999"
+DP03_0056E,"$35,000 to $49,999"
+DP03_0056PE,"Percent For!!$35,000 to $49,999"
+DP03_0057E,"$50,000 to $74,999"
+DP03_0057PE,"Percent For!!$50,000 to $74,999"
+DP03_0058E,"$75,000 to $99,999"
+DP03_0058PE,"Percent For!!$75,000 to $99,999"
+DP03_0059E,"$100,000 to $149,999"
+DP03_0059PE,"Percent For!!$100,000 to $149,999"
+DP03_0060E,"$150,000 to $199,999"
+DP03_0060PE,"Percent For!!$150,000 to $199,999"
+DP03_0061E,"$200,000 or more"
+DP03_0061PE,"Percent For!!$200,000 or more"
+DP03_0062E,Median household income (dollars)
+DP03_0062PE,Percent For!!Median household income (dollars)
+DP03_0063E,Mean household income (dollars)
+DP03_0063PE,Percent For!!Mean household income (dollars)
+DP03_0064E,With earnings
+DP03_0064PE,Percent For!!With earnings
+DP03_0065E,Mean earnings (dollars)
+DP03_0065PE,Percent For!!Mean earnings (dollars)
+DP03_0066E,With Social Security
+DP03_0066PE,Percent For!!With Social Security
+DP03_0067E,Mean Social Security income (dollars)
+DP03_0067PE,Percent For!!Mean Social Security income (dollars)
+DP03_0068E,With retirement income
+DP03_0068PE,Percent For!!With retirement income
+DP03_0069E,Mean retirement income (dollars)
+DP03_0069PE,Percent For!!Mean retirement income (dollars)
+DP03_0070E,With Supplemental Security Income
+DP03_0070PE,Percent For!!With Supplemental Security Income
+DP03_0071E,Mean Supplemental Security Income (dollars)
+DP03_0071PE,Percent For!!Mean Supplemental Security Income (dollars)
+DP03_0072E,With cash public assistance income
+DP03_0072PE,Percent For!!With cash public assistance income
+DP03_0073E,Mean cash public assistance income (dollars)
+DP03_0073PE,Percent For!!Mean cash public assistance income (dollars)
+DP03_0074E,With Food Stamp/SNAP benefits in the past 12 months
+DP03_0074PE,Percent For!!With Food Stamp/SNAP benefits in the past 12 months
+DP03_0075E,Families
+DP03_0075PE,Percent For!!Families
+DP03_0076E,"Less than $10,000"
+DP03_0076PE,"Percent For!!Less than $10,000"
+DP03_0077E,"$10,000 to $14,999"
+DP03_0077PE,"Percent For!!$10,000 to $14,999"
+DP03_0078E,"$15,000 to $24,999"
+DP03_0078PE,"Percent For!!$15,000 to $24,999"
+DP03_0079E,"$25,000 to $34,999"
+DP03_0079PE,"Percent For!!$25,000 to $34,999"
+DP03_0080E,"$35,000 to $49,999"
+DP03_0080PE,"Percent For!!$35,000 to $49,999"
+DP03_0081E,"$50,000 to $74,999"
+DP03_0081PE,"Percent For!!$50,000 to $74,999"
+DP03_0082E,"$75,000 to $99,999"
+DP03_0082PE,"Percent For!!$75,000 to $99,999"
+DP03_0083E,"$100,000 to $149,999"
+DP03_0083PE,"Percent For!!$100,000 to $149,999"
+DP03_0084E,"$150,000 to $199,999"
+DP03_0084PE,"Percent For!!$150,000 to $199,999"
+DP03_0085E,"$200,000 or more"
+DP03_0085PE,"Percent For!!$200,000 or more"
+DP03_0086E,Median family income (dollars)
+DP03_0086PE,Percent For!!Median family income (dollars)
+DP03_0087E,Mean family income (dollars)
+DP03_0087PE,Percent For!!Mean family income (dollars)
+DP03_0088E,Per capita income (dollars)
+DP03_0088PE,Percent For!!Per capita income (dollars)
+DP03_0089E,Nonfamily households
+DP03_0089PE,Percent For!!Nonfamily households
+DP03_0090E,Median nonfamily income (dollars)
+DP03_0090PE,Percent For!!Median nonfamily income (dollars)
+DP03_0091E,Mean nonfamily income (dollars)
+DP03_0091PE,Percent For!!Mean nonfamily income (dollars)
+DP03_0092E,Median earnings for workers (dollars)
+DP03_0092PE,Percent For!!Median earnings for workers (dollars)
+DP03_0093E,"Median earnings for male full-time, year-round workers (dollars)"
+DP03_0093PE,"Percent For!!Median earnings for male full-time, year-round workers (dollars)"
+DP03_0094E,"Median earnings for female full-time, year-round workers (dollars)"
+DP03_0094PE,"Percent For!!Median earnings for female full-time, year-round workers (dollars)"
+DP03_0095E,Civilian noninstitutionalized population
+DP03_0095PE,Percent For!!Civilian noninstitutionalized population
+DP03_0096E,With health insurance coverage
+DP03_0096PE,Percent For!!With health insurance coverage
+DP03_0097E,With private health insurance
+DP03_0097PE,Percent For!!With private health insurance
+DP03_0098E,With public coverage
+DP03_0098PE,Percent For!!With public coverage
+DP03_0099E,No health insurance coverage
+DP03_0099PE,Percent For!!No health insurance coverage
+DP03_0100E,Civilian noninstitutionalized population under 18 years
+DP03_0100PE,Percent For!!Civilian noninstitutionalized population under 18 years
+DP03_0101E,No health insurance coverage
+DP03_0101PE,Percent For!!No health insurance coverage
+DP03_0102E,Civilian noninstitutionalized population 18 to 64 years
+DP03_0102PE,Percent For!!Civilian noninstitutionalized population 18 to 64 years
+DP03_0103E,In labor force:
+DP03_0103PE,Percent For!!In labor force:
+DP03_0104E,Employed:
+DP03_0104PE,Percent For!!Employed:
+DP03_0105E,With health insurance coverage
+DP03_0105PE,Percent For!!With health insurance coverage
+DP03_0106E,With private health insurance
+DP03_0106PE,Percent For!!With private health insurance
+DP03_0107E,With public coverage
+DP03_0107PE,Percent For!!With public coverage
+DP03_0108E,No health insurance coverage
+DP03_0108PE,Percent For!!No health insurance coverage
+DP03_0109E,Unemployed:
+DP03_0109PE,Percent For!!Unemployed:
+DP03_0110E,With health insurance coverage
+DP03_0110PE,Percent For!!With health insurance coverage
+DP03_0111E,With private health insurance
+DP03_0111PE,Percent For!!With private health insurance
+DP03_0112E,With public coverage
+DP03_0112PE,Percent For!!With public coverage
+DP03_0113E,No health insurance coverage
+DP03_0113PE,Percent For!!No health insurance coverage
+DP03_0114E,Not in labor force:
+DP03_0114PE,Percent For!!Not in labor force:
+DP03_0115E,With health insurance coverage
+DP03_0115PE,Percent For!!With health insurance coverage
+DP03_0116E,With private health insurance
+DP03_0116PE,Percent For!!With private health insurance
+DP03_0117E,With public coverage
+DP03_0117PE,Percent For!!With public coverage
+DP03_0118E,No health insurance coverage
+DP03_0118PE,Percent For!!No health insurance coverage
+DP03_0119E,All families
+DP03_0119PE,Percent For!!All families
+DP03_0120E,With related children under 18 years
+DP03_0120PE,Percent For!!With related children under 18 years
+DP03_0121E,With related children under 5 years only
+DP03_0121PE,Percent For!!With related children under 5 years only
+DP03_0122E,Married couple families
+DP03_0122PE,Percent For!!Married couple families
+DP03_0123E,With related children under 18 years
+DP03_0123PE,Percent For!!With related children under 18 years
+DP03_0124E,With related children under 5 years only
+DP03_0124PE,Percent For!!With related children under 5 years only
+DP03_0125E,"Families with female householder, no husband present"
+DP03_0125PE,"Percent For!!Families with female householder, no husband present"
+DP03_0126E,With related children under 18 years
+DP03_0126PE,Percent For!!With related children under 18 years
+DP03_0127E,With related children under 5 years only
+DP03_0127PE,Percent For!!With related children under 5 years only
+DP03_0128E,All people
+DP03_0128PE,Percent For!!All people
+DP03_0129E,Under 18 years
+DP03_0129PE,Percent For!!Under 18 years
+DP03_0130E,Related children under 18 years
+DP03_0130PE,Percent For!!Related children under 18 years
+DP03_0131E,Related children under 5 years
+DP03_0131PE,Percent For!!Related children under 5 years
+DP03_0132E,Related children 5 to 17 years
+DP03_0132PE,Percent For!!Related children 5 to 17 years
+DP03_0133E,18 years and over
+DP03_0133PE,Percent For!!18 years and over
+DP03_0134E,18 to 64 years
+DP03_0134PE,Percent For!!18 to 64 years
+DP03_0135E,65 years and over
+DP03_0135PE,Percent For!!65 years and over
+DP03_0136E,People in families
+DP03_0136PE,Percent For!!People in families
+DP03_0137E,Unrelated individuals 15 years and over
+DP03_0137PE,Percent For!!Unrelated individuals 15 years and over
+DP04_0001E,Total housing units
+DP04_0001PE,Percent For!!Total housing units
+DP04_0002E,Occupied housing units
+DP04_0002PE,Percent For!!Occupied housing units
+DP04_0003E,Vacant housing units
+DP04_0003PE,Percent For!!Vacant housing units
+DP04_0004E,Homeowner vacancy rate
+DP04_0004PE,Percent For!!Homeowner vacancy rate
+DP04_0005E,Rental vacancy rate
+DP04_0005PE,Percent For!!Rental vacancy rate
+DP04_0006E,Total housing units
+DP04_0006PE,Percent For!!Total housing units
+DP04_0007E,"1-unit, detached"
+DP04_0007PE,"Percent For!!1-unit, detached"
+DP04_0008E,"1-unit, attached"
+DP04_0008PE,"Percent For!!1-unit, attached"
+DP04_0009E,2 units
+DP04_0009PE,Percent For!!2 units
+DP04_0010E,3 or 4 units
+DP04_0010PE,Percent For!!3 or 4 units
+DP04_0011E,5 to 9 units
+DP04_0011PE,Percent For!!5 to 9 units
+DP04_0012E,10 to 19 units
+DP04_0012PE,Percent For!!10 to 19 units
+DP04_0013E,20 or more units
+DP04_0013PE,Percent For!!20 or more units
+DP04_0014E,Mobile home
+DP04_0014PE,Percent For!!Mobile home
+DP04_0015E,"Boat, RV, van, etc."
+DP04_0015PE,"Percent For!!Boat, RV, van, etc."
+DP04_0016E,Total housing units
+DP04_0016PE,Percent For!!Total housing units
+DP04_0017E,Built 2010 or later
+DP04_0017PE,Percent For!!Built 2010 or later
+DP04_0018E,Built 2000 to 2009
+DP04_0018PE,Percent For!!Built 2000 to 2009
+DP04_0019E,Built 1990 to 1999
+DP04_0019PE,Percent For!!Built 1990 to 1999
+DP04_0020E,Built 1980 to 1989
+DP04_0020PE,Percent For!!Built 1980 to 1989
+DP04_0021E,Built 1970 to 1979
+DP04_0021PE,Percent For!!Built 1970 to 1979
+DP04_0022E,Built 1960 to 1969
+DP04_0022PE,Percent For!!Built 1960 to 1969
+DP04_0023E,Built 1950 to 1959
+DP04_0023PE,Percent For!!Built 1950 to 1959
+DP04_0024E,Built 1940 to 1949
+DP04_0024PE,Percent For!!Built 1940 to 1949
+DP04_0025E,Built 1939 or earlier
+DP04_0025PE,Percent For!!Built 1939 or earlier
+DP04_0026E,Total housing units
+DP04_0026PE,Percent For!!Total housing units
+DP04_0027E,1 room
+DP04_0027PE,Percent For!!1 room
+DP04_0028E,2 rooms
+DP04_0028PE,Percent For!!2 rooms
+DP04_0029E,3 rooms
+DP04_0029PE,Percent For!!3 rooms
+DP04_0030E,4 rooms
+DP04_0030PE,Percent For!!4 rooms
+DP04_0031E,5 rooms
+DP04_0031PE,Percent For!!5 rooms
+DP04_0032E,6 rooms
+DP04_0032PE,Percent For!!6 rooms
+DP04_0033E,7 rooms
+DP04_0033PE,Percent For!!7 rooms
+DP04_0034E,8 rooms
+DP04_0034PE,Percent For!!8 rooms
+DP04_0035E,9 rooms or more
+DP04_0035PE,Percent For!!9 rooms or more
+DP04_0036E,Median rooms
+DP04_0036PE,Percent For!!Median rooms
+DP04_0037E,Total housing units
+DP04_0037PE,Percent For!!Total housing units
+DP04_0038E,No bedroom
+DP04_0038PE,Percent For!!No bedroom
+DP04_0039E,1 bedroom
+DP04_0039PE,Percent For!!1 bedroom
+DP04_0040E,2 bedrooms
+DP04_0040PE,Percent For!!2 bedrooms
+DP04_0041E,3 bedrooms
+DP04_0041PE,Percent For!!3 bedrooms
+DP04_0042E,4 bedrooms
+DP04_0042PE,Percent For!!4 bedrooms
+DP04_0043E,5 or more bedrooms
+DP04_0043PE,Percent For!!5 or more bedrooms
+DP04_0044E,Occupied housing units
+DP04_0044PE,Percent For!!Occupied housing units
+DP04_0045E,Owner-occupied
+DP04_0045PE,Percent For!!Owner-occupied
+DP04_0046E,Renter-occupied
+DP04_0046PE,Percent For!!Renter-occupied
+DP04_0047E,Average household size of owner-occupied unit
+DP04_0047PE,Percent For!!Average household size of owner-occupied unit
+DP04_0048E,Average household size of renter-occupied unit
+DP04_0048PE,Percent For!!Average household size of renter-occupied unit
+DP04_0049E,Occupied housing units
+DP04_0049PE,Percent For!!Occupied housing units
+DP04_0050E,Moved in 2010 or later
+DP04_0050PE,Percent For!!Moved in 2010 or later
+DP04_0051E,Moved in 2000 to 2009
+DP04_0051PE,Percent For!!Moved in 2000 to 2009
+DP04_0052E,Moved in 1990 to 1999
+DP04_0052PE,Percent For!!Moved in 1990 to 1999
+DP04_0053E,Moved in 1980 to 1989
+DP04_0053PE,Percent For!!Moved in 1980 to 1989
+DP04_0054E,Moved in 1970 to 1979
+DP04_0054PE,Percent For!!Moved in 1970 to 1979
+DP04_0055E,Moved in 1969 or earlier
+DP04_0055PE,Percent For!!Moved in 1969 or earlier
+DP04_0056E,Occupied housing units
+DP04_0056PE,Percent For!!Occupied housing units
+DP04_0057E,No vehicles available
+DP04_0057PE,Percent For!!No vehicles available
+DP04_0058E,1 vehicle available
+DP04_0058PE,Percent For!!1 vehicle available
+DP04_0059E,2 vehicles available
+DP04_0059PE,Percent For!!2 vehicles available
+DP04_0060E,3 or more vehicles available
+DP04_0060PE,Percent For!!3 or more vehicles available
+DP04_0061E,Occupied housing units
+DP04_0061PE,Percent For!!Occupied housing units
+DP04_0062E,Utility gas
+DP04_0062PE,Percent For!!Utility gas
+DP04_0063E,"Bottled, tank, or LP gas"
+DP04_0063PE,"Percent For!!Bottled, tank, or LP gas"
+DP04_0064E,Electricity
+DP04_0064PE,Percent For!!Electricity
+DP04_0065E,"Fuel oil, kerosene, etc."
+DP04_0065PE,"Percent For!!Fuel oil, kerosene, etc."
+DP04_0066E,Coal or coke
+DP04_0066PE,Percent For!!Coal or coke
+DP04_0067E,Wood
+DP04_0067PE,Percent For!!Wood
+DP04_0068E,Solar energy
+DP04_0068PE,Percent For!!Solar energy
+DP04_0069E,Other fuel
+DP04_0069PE,Percent For!!Other fuel
+DP04_0070E,No fuel used
+DP04_0070PE,Percent For!!No fuel used
+DP04_0071E,Occupied housing units
+DP04_0071PE,Percent For!!Occupied housing units
+DP04_0072E,Lacking complete plumbing facilities
+DP04_0072PE,Percent For!!Lacking complete plumbing facilities
+DP04_0073E,Lacking complete kitchen facilities
+DP04_0073PE,Percent For!!Lacking complete kitchen facilities
+DP04_0074E,No telephone service available
+DP04_0074PE,Percent For!!No telephone service available
+DP04_0075E,Occupied housing units
+DP04_0075PE,Percent For!!Occupied housing units
+DP04_0076E,1.00 or less
+DP04_0076PE,Percent For!!1.00 or less
+DP04_0077E,1.01 to 1.50
+DP04_0077PE,Percent For!!1.01 to 1.50
+DP04_0078E,1.51 or more
+DP04_0078PE,Percent For!!1.51 or more
+DP04_0079E,Owner-occupied units
+DP04_0079PE,Percent For!!Owner-occupied units
+DP04_0080E,"Less than $50,000"
+DP04_0080PE,"Percent For!!Less than $50,000"
+DP04_0081E,"$50,000 to $99,999"
+DP04_0081PE,"Percent For!!$50,000 to $99,999"
+DP04_0082E,"$100,000 to $149,999"
+DP04_0082PE,"Percent For!!$100,000 to $149,999"
+DP04_0083E,"$150,000 to $199,999"
+DP04_0083PE,"Percent For!!$150,000 to $199,999"
+DP04_0084E,"$200,000 to $299,999"
+DP04_0084PE,"Percent For!!$200,000 to $299,999"
+DP04_0085E,"$300,000 to $499,999"
+DP04_0085PE,"Percent For!!$300,000 to $499,999"
+DP04_0086E,"$500,000 to $999,999"
+DP04_0086PE,"Percent For!!$500,000 to $999,999"
+DP04_0087E,"$1,000,000 or more"
+DP04_0087PE,"Percent For!!$1,000,000 or more"
+DP04_0088E,Median (dollars)
+DP04_0088PE,Percent For!!Median (dollars)
+DP04_0089E,Owner-occupied units
+DP04_0089PE,Percent For!!Owner-occupied units
+DP04_0090E,Housing units with a mortgage
+DP04_0090PE,Percent For!!Housing units with a mortgage
+DP04_0091E,Housing units without a mortgage
+DP04_0091PE,Percent For!!Housing units without a mortgage
+DP04_0092E,Housing units with a mortgage
+DP04_0092PE,Percent For!!Housing units with a mortgage
+DP04_0093E,Less than $300
+DP04_0093PE,Percent For!!Less than $300
+DP04_0094E,$300 to $499
+DP04_0094PE,Percent For!!$300 to $499
+DP04_0095E,$500 to $699
+DP04_0095PE,Percent For!!$500 to $699
+DP04_0096E,$700 to $999
+DP04_0096PE,Percent For!!$700 to $999
+DP04_0097E,"$1,000 to $1,499"
+DP04_0097PE,"Percent For!!$1,000 to $1,499"
+DP04_0098E,"$1,500 to $1,999"
+DP04_0098PE,"Percent For!!$1,500 to $1,999"
+DP04_0099E,"$2,000 or more"
+DP04_0099PE,"Percent For!!$2,000 or more"
+DP04_0100E,Median (dollars)
+DP04_0100PE,Percent For!!Median (dollars)
+DP04_0101E,Housing units without a mortgage
+DP04_0101PE,Percent For!!Housing units without a mortgage
+DP04_0102E,Less than $100
+DP04_0102PE,Percent For!!Less than $100
+DP04_0103E,$100 to $199
+DP04_0103PE,Percent For!!$100 to $199
+DP04_0104E,$200 to $299
+DP04_0104PE,Percent For!!$200 to $299
+DP04_0105E,$300 to $399
+DP04_0105PE,Percent For!!$300 to $399
+DP04_0106E,$400 or more
+DP04_0106PE,Percent For!!$400 or more
+DP04_0107E,Median (dollars)
+DP04_0107PE,Percent For!!Median (dollars)
+DP04_0108E,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)
+DP04_0108PE,Percent For!!Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)
+DP04_0109E,Less than 20.0 percent
+DP04_0109PE,Percent For!!Less than 20.0 percent
+DP04_0110E,20.0 to 24.9 percent
+DP04_0110PE,Percent For!!20.0 to 24.9 percent
+DP04_0111E,25.0 to 29.9 percent
+DP04_0111PE,Percent For!!25.0 to 29.9 percent
+DP04_0112E,30.0 to 34.9 percent
+DP04_0112PE,Percent For!!30.0 to 34.9 percent
+DP04_0113E,35.0 percent or more
+DP04_0113PE,Percent For!!35.0 percent or more
+DP04_0114E,Not computed
+DP04_0114PE,Percent For!!Not computed
+DP04_0115E,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)
+DP04_0115PE,Percent For!!Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)
+DP04_0116E,Less than 10.0 percent
+DP04_0116PE,Percent For!!Less than 10.0 percent
+DP04_0117E,10.0 to 14.9 percent
+DP04_0117PE,Percent For!!10.0 to 14.9 percent
+DP04_0118E,15.0 to 19.9 percent
+DP04_0118PE,Percent For!!15.0 to 19.9 percent
+DP04_0119E,20.0 to 24.9 percent
+DP04_0119PE,Percent For!!20.0 to 24.9 percent
+DP04_0120E,25.0 to 29.9 percent
+DP04_0120PE,Percent For!!25.0 to 29.9 percent
+DP04_0121E,30.0 to 34.9 percent
+DP04_0121PE,Percent For!!30.0 to 34.9 percent
+DP04_0122E,35.0 percent or more
+DP04_0122PE,Percent For!!35.0 percent or more
+DP04_0123E,Not computed
+DP04_0123PE,Percent For!!Not computed
+DP04_0124E,Occupied units paying rent
+DP04_0124PE,Percent For!!Occupied units paying rent
+DP04_0125E,Less than $200
+DP04_0125PE,Percent For!!Less than $200
+DP04_0126E,$200 to $299
+DP04_0126PE,Percent For!!$200 to $299
+DP04_0127E,$300 to $499
+DP04_0127PE,Percent For!!$300 to $499
+DP04_0128E,$500 to $749
+DP04_0128PE,Percent For!!$500 to $749
+DP04_0129E,$750 to $999
+DP04_0129PE,Percent For!!$750 to $999
+DP04_0130E,"$1,000 to $1,499"
+DP04_0130PE,"Percent For!!$1,000 to $1,499"
+DP04_0131E,"$1,500 or more"
+DP04_0131PE,"Percent For!!$1,500 or more"
+DP04_0132E,Median (dollars)
+DP04_0132PE,Percent For!!Median (dollars)
+DP04_0133E,No rent paid
+DP04_0133PE,Percent For!!No rent paid
+DP04_0134E,Occupied units paying rent (excluding units where GRAPI cannot be computed)
+DP04_0134PE,Percent For!!Occupied units paying rent (excluding units where GRAPI cannot be computed)
+DP04_0135E,Less than 15.0 percent
+DP04_0135PE,Percent For!!Less than 15.0 percent
+DP04_0136E,15.0 to 19.9 percent
+DP04_0136PE,Percent For!!15.0 to 19.9 percent
+DP04_0137E,20.0 to 24.9 percent
+DP04_0137PE,Percent For!!20.0 to 24.9 percent
+DP04_0138E,25.0 to 29.9 percent
+DP04_0138PE,Percent For!!25.0 to 29.9 percent
+DP04_0139E,30.0 to 34.9 percent
+DP04_0139PE,Percent For!!30.0 to 34.9 percent
+DP04_0140E,35.0 percent or more
+DP04_0140PE,Percent For!!35.0 percent or more
+DP04_0141E,Not computed
+DP04_0141PE,Percent For!!Not computed
+DP05_0001E,Total population
+DP05_0001PE,Percent For!!Total population
+DP05_0002E,Male
+DP05_0002PE,Percent For!!Male
+DP05_0003E,Female
+DP05_0003PE,Percent For!!Female
+DP05_0004E,Under 5 years
+DP05_0004PE,Percent For!!Under 5 years
+DP05_0005E,5 to 9 years
+DP05_0005PE,Percent For!!5 to 9 years
+DP05_0006E,10 to 14 years
+DP05_0006PE,Percent For!!10 to 14 years
+DP05_0007E,15 to 19 years
+DP05_0007PE,Percent For!!15 to 19 years
+DP05_0008E,20 to 24 years
+DP05_0008PE,Percent For!!20 to 24 years
+DP05_0009E,25 to 34 years
+DP05_0009PE,Percent For!!25 to 34 years
+DP05_0010E,35 to 44 years
+DP05_0010PE,Percent For!!35 to 44 years
+DP05_0011E,45 to 54 years
+DP05_0011PE,Percent For!!45 to 54 years
+DP05_0012E,55 to 59 years
+DP05_0012PE,Percent For!!55 to 59 years
+DP05_0013E,60 to 64 years
+DP05_0013PE,Percent For!!60 to 64 years
+DP05_0014E,65 to 74 years
+DP05_0014PE,Percent For!!65 to 74 years
+DP05_0015E,75 to 84 years
+DP05_0015PE,Percent For!!75 to 84 years
+DP05_0016E,85 years and over
+DP05_0016PE,Percent For!!85 years and over
+DP05_0017E,Median age (years)
+DP05_0017PE,Percent For!!Median age (years)
+DP05_0018E,18 years and over
+DP05_0018PE,Percent For!!18 years and over
+DP05_0019E,21 years and over
+DP05_0019PE,Percent For!!21 years and over
+DP05_0020E,62 years and over
+DP05_0020PE,Percent For!!62 years and over
+DP05_0021E,65 years and over
+DP05_0021PE,Percent For!!65 years and over
+DP05_0022E,18 years and over
+DP05_0022PE,Percent For!!   18 years and over
+DP05_0023E,Male
+DP05_0023PE,Percent For!!Male
+DP05_0024E,Female
+DP05_0024PE,Percent For!!Female
+DP05_0025E,65 years and over
+DP05_0025PE,Percent For!!   65 years and over
+DP05_0026E,Male
+DP05_0026PE,Percent For!!Male
+DP05_0027E,Female
+DP05_0027PE,Percent For!!Female
+DP05_0028E,Total population
+DP05_0028PE,Percent For!!Total population
+DP05_0029E,One race
+DP05_0029PE,Percent For!!One race
+DP05_0030E,Two or more races
+DP05_0030PE,Percent For!!Two or more races
+DP05_0031E,One race
+DP05_0031PE,Percent For!!One race
+DP05_0032E,White
+DP05_0032PE,Percent For!!White
+DP05_0033E,Black or African American
+DP05_0033PE,Percent For!!Black or African American
+DP05_0034E,American Indian and Alaska Native
+DP05_0034PE,Percent For!!American Indian and Alaska Native
+DP05_0035E,Cherokee tribal grouping
+DP05_0035PE,Percent For!!Cherokee tribal grouping
+DP05_0036E,Chippewa tribal grouping
+DP05_0036PE,Percent For!!Chippewa tribal grouping
+DP05_0037E,Navajo tribal grouping
+DP05_0037PE,Percent For!!Navajo tribal grouping
+DP05_0038E,Sioux tribal grouping
+DP05_0038PE,Percent For!!Sioux tribal grouping
+DP05_0039E,Asian
+DP05_0039PE,Percent For!!Asian
+DP05_0040E,Asian Indian
+DP05_0040PE,Percent For!!Asian Indian
+DP05_0041E,Chinese
+DP05_0041PE,Percent For!!Chinese
+DP05_0042E,Filipino
+DP05_0042PE,Percent For!!Filipino
+DP05_0043E,Japanese
+DP05_0043PE,Percent For!!Japanese
+DP05_0044E,Korean
+DP05_0044PE,Percent For!!Korean
+DP05_0045E,Vietnamese
+DP05_0045PE,Percent For!!Vietnamese
+DP05_0046E,Other Asian
+DP05_0046PE,Percent For!!Other Asian
+DP05_0047E,Native Hawaiian and Other Pacific Islander
+DP05_0047PE,Percent For!!Native Hawaiian and Other Pacific Islander
+DP05_0048E,Native Hawaiian
+DP05_0048PE,Percent For!!Native Hawaiian
+DP05_0049E,Guamanian or Chamorro
+DP05_0049PE,Percent For!!Guamanian or Chamorro
+DP05_0050E,Samoan
+DP05_0050PE,Percent For!!Samoan
+DP05_0051E,Other Pacific Islander
+DP05_0051PE,Percent For!!Other Pacific Islander
+DP05_0052E,Some other race
+DP05_0052PE,Percent For!!Some other race
+DP05_0053E,Two or more races
+DP05_0053PE,Percent For!!Two or more races
+DP05_0054E,White and Black or African American
+DP05_0054PE,Percent For!!White and Black or African American
+DP05_0055E,White and American Indian and Alaska Native
+DP05_0055PE,Percent For!!White and American Indian and Alaska Native
+DP05_0056E,White and Asian
+DP05_0056PE,Percent For!!White and Asian
+DP05_0057E,Black or African American and American Indian and Alaska Native
+DP05_0057PE,Percent For!!Black or African American and American Indian and Alaska Native
+DP05_0058E,Total population
+DP05_0058PE,Percent For!!Total population
+DP05_0059E,White
+DP05_0059PE,Percent For!!White
+DP05_0060E,Black or African American
+DP05_0060PE,Percent For!!Black or African American
+DP05_0061E,American Indian and Alaska Native
+DP05_0061PE,Percent For!!American Indian and Alaska Native
+DP05_0062E,Asian
+DP05_0062PE,Percent For!!Asian
+DP05_0063E,Native Hawaiian and Other Pacific Islander
+DP05_0063PE,Percent For!!Native Hawaiian and Other Pacific Islander
+DP05_0064E,Some other race
+DP05_0064PE,Percent For!!Some other race
+DP05_0065E,Total population
+DP05_0065PE,Percent For!!Total population
+DP05_0066E,Hispanic or Latino (of any race)
+DP05_0066PE,Percent For!!Hispanic or Latino (of any race)
+DP05_0067E,Mexican
+DP05_0067PE,Percent For!!Mexican
+DP05_0068E,Puerto Rican
+DP05_0068PE,Percent For!!Puerto Rican
+DP05_0069E,Cuban
+DP05_0069PE,Percent For!!Cuban
+DP05_0070E,Other Hispanic or Latino
+DP05_0070PE,Percent For!!Other Hispanic or Latino
+DP05_0071E,Not Hispanic or Latino
+DP05_0071PE,Percent For!!Not Hispanic or Latino
+DP05_0072E,White alone
+DP05_0072PE,Percent For!!White alone
+DP05_0073E,Black or African American alone
+DP05_0073PE,Percent For!!Black or African American alone
+DP05_0074E,American Indian and Alaska Native alone
+DP05_0074PE,Percent For!!American Indian and Alaska Native alone
+DP05_0075E,Asian alone
+DP05_0075PE,Percent For!!Asian alone
+DP05_0076E,Native Hawaiian and Other Pacific Islander alone
+DP05_0076PE,Percent For!!Native Hawaiian and Other Pacific Islander alone
+DP05_0077E,Some other race alone
+DP05_0077PE,Percent For!!Some other race alone
+DP05_0078E,Two or more races
+DP05_0078PE,Percent For!!Two or more races
+DP05_0079E,Two races including Some other race
+DP05_0079PE,Percent For!!Two races including Some other race
+DP05_0080E,"Two races excluding Some other race, and Three or more races"
+DP05_0080PE,"Percent For!!Two races excluding Some other race, and Three or more races"
+DP05_0081E,Total housing units
+DP05_0081PE,Percent For!!Total housing units
